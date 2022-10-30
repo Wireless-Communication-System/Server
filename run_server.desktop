@@ -1,0 +1,7 @@
+[Desktop Entry]
+
+Type=Application
+
+Name=WirelessCommunicationSystem_Server
+
+Exec= xterm -hold -e 'sh /home/pi/Server/server_launcher.sh'

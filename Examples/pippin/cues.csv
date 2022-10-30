@@ -1,0 +1,7 @@
+Cue Number,When,Action,Cue State
+lx1,Preshow,Prepare for full blackout,Standby
+,bc,,
+lx1,Beginning of show,Full blackout,Go
+sl1,Beginning of show,Prepare to open Curtain,Standby
+,,,
+sl1,During full blackout,Open Curtain,Go

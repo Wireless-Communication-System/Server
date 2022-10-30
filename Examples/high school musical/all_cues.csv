@@ -1,0 +1,25 @@
+Cue Number,When,Action,Cue State
+lx1,Preshow,Prepare for full blackout,Standby
+,bc,,
+lx1,Beginning of show,Full blackout,Go
+sl1,Beginning of show,Prepare to open Curtain,Standby
+,,,
+sl1,During full blackout,Open Curtain,Go
+,,,
+,Beginning of show - after full blackout,Prepare to move Emily's box to green tape,Standby
+sl2,Beginning of show - after full blackout,Prepare to bring in Anna's Box,Standby
+,,,
+sr1,Homeroom Scene,Emily's box to green tape,Go
+sl2,Homeroom Scene,Bring in Anna's Box,Go
+,,,
+sr2,Going to Hallway,Prepare to remove Emily's box,Standby
+sl3,Going to Hallway,Prepare to remove Anna's Box,Standby
+,,,
+sr2,Into Hallway,Remove Emily's box,Go
+sl3,Into Hallway,Remove Anna's Box,Go
+,,,
+sr3,Into Get Your head,Prepare to pass basketball 3rd wing,Standby
+,,,
+,,,
+,,,
+sr3,During Get Your head,Pass basketball 3rd wing,Go

@@ -1,0 +1,4 @@
+Cue State,Initial Node State,Final Node State
+Standby,None,Ready
+Go,None,Done
+Multiple Standbys,None,Multiple Readys

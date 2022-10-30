@@ -1,0 +1,5 @@
+Cue Group Number,Cue Number,Cue Prefix,When,Action,Cue State
+0,exa1,exa,Top of show,Prepare,Standby
+1,exa1,exa,First act,Perform action,Go
+1,exb1,exb,First act,Prepare,Standby
+2,exb1,exb,Second act,Perform action,Go
